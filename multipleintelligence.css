@@ -1,0 +1,28 @@
+body {
+    margin: 20px;
+    text-align: center;
+    background-color: steelblue;
+}
+
+h1 {
+    color: red;
+}
+
+img {
+    float: left;
+    margin: 5px;
+}
+h2
+{
+    text-align: left;
+}
+h3 {
+    text-align: justify;
+    font-size: 25px;
+}
+button{
+    width: 200px;
+    height: 40px;
+    background-color: blue;
+    color: red;
+}
